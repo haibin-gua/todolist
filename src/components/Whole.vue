@@ -1,9 +1,13 @@
 <template>
 <div>
     <el-table :data="journal">
-        <el-table-column prop="date" label="日期" width="150">
+        <el-table-column prop="date" label="录入时间" width="150">
         </el-table-column>
-        <el-table-column prop="content" label="内容">
+        <el-table-column prop="content" label="姓名" width="150">
+        </el-table-column>
+         <el-table-column prop="age" label="年龄" width="150">
+        </el-table-column>
+         <el-table-column prop="post" label="职位" width="150">
         </el-table-column>
         <el-table-column fixed="right" label="操作" width="100">
         <template slot-scope="scope">

@@ -20,7 +20,7 @@
             <el-dropdown-item>退出</el-dropdown-item>
             </el-dropdown-menu>
         </el-dropdown>
-        <span>王小虎</span>
+        <span>盛海滨</span>
         </el-header>
         
     <el-main>
