@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "element-ui": "^2.13.1",
     "express": "^4.17.1",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "mongoose": "^5.9.13",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
